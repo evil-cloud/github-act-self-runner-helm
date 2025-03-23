@@ -3,7 +3,7 @@ fullnameOverride: python-github-act
 image:
   repository: d4rkghost47/python-github-act
   pullPolicy: IfNotPresent
-  tag: sha-2e4c64c
+  tag: sha-952a1b9
 version: v1
 serviceAccount:
   create: true
